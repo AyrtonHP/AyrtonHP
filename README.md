@@ -1,5 +1,5 @@
 # Olá, Eu sou Ayrton!
-<div style = "margin: auto">
+<div style = margin: auto>
   
 <div>
   <a href="https://github.com/AyrtonHP">
