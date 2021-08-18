@@ -1,5 +1,5 @@
 # Olá, Eu sou Ayrton!
-<div style = margin: auto>
+<div style = "display: flex; flex-direction: column; justify-content: center;">
   
 <div>
   <a href="https://github.com/AyrtonHP">
